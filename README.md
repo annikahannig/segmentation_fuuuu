@@ -1,4 +1,4 @@
-fuuu.so
+fuuuu.so
 =======
 
 ## strsignal replacement for Segmentation Fault
